@@ -1,0 +1,16 @@
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.exe
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.deps.json
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.runtimeconfig.json
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.runtimeconfig.dev.json
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.dll
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\ref\simpleCalculator.dll
+D:\C# Code\Example\simpleCalculator\simpleCalculator\bin\Debug\net5.0\simpleCalculator.pdb
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.csproj.AssemblyReference.cache
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.AssemblyInfoInputs.cache
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.AssemblyInfo.cs
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.csproj.CoreCompileInputs.cache
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.dll
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\ref\simpleCalculator.dll
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.pdb
+D:\C# Code\Example\simpleCalculator\simpleCalculator\obj\Debug\net5.0\simpleCalculator.genruntimeconfig.cache
